@@ -7,6 +7,10 @@ This text is being prepared as part of the [Greek Learner Texts Project](https:/
 * Nathan Binns (OCR and corrections)
 * James Tauber (repo set up and conversion)
 
+## Source
+
+Original source is <https://archive.org/details/storiesinatticg00unkngoog>.
+
 ## Progress
 
 The original has been scanned, OCR'd and corrected (see .docx file in `orig/`). We are now converting it to a text format to run the rest of our pipeline on.
