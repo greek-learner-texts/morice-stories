@@ -1,20 +1,15 @@
-# {{ NAME OF TEXT }}
-
-{{ describe what is being done, the process being followed, and who is involved in the work }}
+# Stories in Attice Greek by the Rev. Francis David Morice (1883)
 
 This text is being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
 
 ## Contributors
 
-* {{ list of people who have contributed to this repo }}
-
-## Source
-
-{{ indicate original source(s) of text: scans or existing transcriptions }}
+* Nathan Binns (OCR and corrections)
+* James Tauber (repo set up and conversion)
 
 ## Progress
 
-{{ indicate progress, or remove entire section if done }}
+The original has been scanned, OCR'd and corrected (see .docx file in `orig/`). We are now converting it to a text format to run the rest of our pipeline on.
 
 ## License
 
