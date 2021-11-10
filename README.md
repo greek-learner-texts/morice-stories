@@ -5,7 +5,7 @@ This text is being prepared as part of the [Greek Learner Texts Project](https:/
 ## Contributors
 
 * Nathan Binns (OCR and corrections)
-* James Tauber (repo set up and conversion)
+* James Tauber (repo set up, conversion, additional corrections)
 
 ## Source
 
@@ -13,7 +13,7 @@ Original source is <https://archive.org/details/storiesinatticg00unkngoog>.
 
 ## Progress
 
-The original has been scanned, OCR'd and corrected (see .docx file in `orig/`). We are now converting it to a text format to run the rest of our pipeline on.
+The original has been scanned, OCR'd and corrected (see .docx file in `orig/`). The standard ref-text format is now available as `text/morice.txt`.
 
 ## License
 
